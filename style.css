@@ -1,0 +1,35 @@
+#image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+ }
+
+ #formname{
+     font-style: normal;
+     color: blueviolet;
+     font-weight: bold;
+     font-size: medium;
+     }
+
+#green{
+  font-style: normal;
+  color: green;
+  font-weight: 900;
+  font-size:xx-large;
+}
+#purple{
+  font-style: normal;
+  color: rgb(192, 47, 156);
+  font-weight: 900;
+  font-size:x-large;
+}
+#link{
+  font-size:xx-large;
+  font-style: normal;
+  color: rgb(114, 35, 94);
+  font-weight: 900;
+}
+ p{
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ 
